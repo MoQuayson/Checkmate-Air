@@ -1,0 +1,34 @@
+c:\users\moses\documents\visual studio 2012\Projects\Checkmate Air\Checkmate Air\bin\Debug\Checkmate Air.exe.config
+c:\users\moses\documents\visual studio 2012\Projects\Checkmate Air\Checkmate Air\obj\Debug\Checkmate Air.csprojResolveAssemblyReference.cache
+c:\users\moses\documents\visual studio 2012\Projects\Checkmate Air\Checkmate Air\obj\Debug\Checkmate_Air.Form2.resources
+c:\users\moses\documents\visual studio 2012\Projects\Checkmate Air\Checkmate Air\obj\Debug\Checkmate_Air.Properties.Resources.resources
+c:\users\moses\documents\visual studio 2012\Projects\Checkmate Air\Checkmate Air\obj\Debug\Checkmate Air.csproj.GenerateResource.Cache
+c:\users\moses\documents\visual studio 2012\Projects\Checkmate Air\Checkmate Air\bin\Debug\Checkmate Air.exe
+c:\users\moses\documents\visual studio 2012\Projects\Checkmate Air\Checkmate Air\bin\Debug\Checkmate Air.pdb
+c:\users\moses\documents\visual studio 2012\Projects\Checkmate Air\Checkmate Air\obj\Debug\Checkmate Air.exe
+c:\users\moses\documents\visual studio 2012\Projects\Checkmate Air\Checkmate Air\obj\Debug\Checkmate Air.pdb
+c:\users\moses\documents\visual studio 2012\Projects\Checkmate Air\Checkmate Air\obj\Debug\Checkmate_Air.Form1.resources
+c:\users\moses\documents\visual studio 2012\Projects\Checkmate Air\Checkmate Air\obj\Debug\Checkmate_Air.Main_Activity.resources
+C:\Users\Moses\Documents\Visual Studio 2012\Projects\Checkmate Air\Checkmate Air\obj\Debug\Checkmate_Air.Admin_Form.resources
+C:\Users\Moses\Documents\Visual Studio 2012\Projects\Checkmate Air\Checkmate Air\obj\Debug\Checkmate_Air.Report.resources
+C:\Users\Moses\Documents\Visual Studio 2012\Projects\Checkmate Air\Checkmate Air\obj\Debug\RdlCompile.cache
+C:\Users\Moses\Documents\Visual Studio 2012\Projects\Checkmate Air\Checkmate Air\obj\Debug\RdlCompile.compiled
+C:\Users\Moses\Documents\Visual Studio 2012\Projects\Checkmate Air\Checkmate Air\obj\Debug\Checkmate_Air.Update_Form.resources
+C:\Users\Moses\Documents\Visual Studio 2012\Projects\Checkmate Air\Checkmate Air\obj\Debug\Checkmate_Air.Display_Form.resources
+C:\Users\Moses\Documents\Visual Studio 2012\Projects\Checkmate Air\Checkmate Air\obj\Debug\Checkmate_Air.Delete_Form.resources
+C:\Users\Moses\Documents\Visual Studio 2012\Projects\Checkmate Air\Checkmate Air\obj\Debug\Checkmate_Air.Report_All.resources
+F:\Projects\Checkmate Air\Checkmate Air\bin\Debug\Checkmate Air.exe.config
+F:\Projects\Checkmate Air\Checkmate Air\obj\Debug\Checkmate Air.exe
+F:\Projects\Checkmate Air\Checkmate Air\obj\Debug\Checkmate Air.pdb
+F:\Projects\Checkmate Air\Checkmate Air\obj\Debug\Checkmate Air.csprojResolveAssemblyReference.cache
+F:\Projects\Checkmate Air\Checkmate Air\obj\Debug\Checkmate_Air.Admin_Form.resources
+F:\Projects\Checkmate Air\Checkmate Air\obj\Debug\Checkmate_Air.Delete_Form.resources
+F:\Projects\Checkmate Air\Checkmate Air\obj\Debug\Checkmate_Air.Display_Form.resources
+F:\Projects\Checkmate Air\Checkmate Air\obj\Debug\Checkmate_Air.Form1.resources
+F:\Projects\Checkmate Air\Checkmate Air\obj\Debug\Checkmate_Air.Form2.resources
+F:\Projects\Checkmate Air\Checkmate Air\obj\Debug\Checkmate_Air.Main_Activity.resources
+F:\Projects\Checkmate Air\Checkmate Air\obj\Debug\Checkmate_Air.Properties.Resources.resources
+F:\Projects\Checkmate Air\Checkmate Air\obj\Debug\Checkmate_Air.Report_All.resources
+F:\Projects\Checkmate Air\Checkmate Air\obj\Debug\Checkmate_Air.Report.resources
+F:\Projects\Checkmate Air\Checkmate Air\obj\Debug\Checkmate_Air.Update_Form.resources
+F:\Projects\Checkmate Air\Checkmate Air\obj\Debug\Checkmate Air.csproj.GenerateResource.Cache
